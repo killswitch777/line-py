@@ -1,0 +1,17 @@
+{
+  "name": "line-py",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/fadhiilrachman/line-py.git"
+    }
+  ]
+}
